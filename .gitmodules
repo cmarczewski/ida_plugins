@@ -1,0 +1,6 @@
+[submodule "idaref"]
+	path = idaref
+	url = https://github.com/nologic/idaref.git
+[submodule "ida-minsc"]
+	path = ida-minsc
+	url = https://github.com/arizvisa/ida-minsc.git
